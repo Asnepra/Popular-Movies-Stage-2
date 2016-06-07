@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorAccent">#18FFFF</color>
+    <color name="colorTextView">#009688</color>
+
+    <color name="fab1colorPrimary">#FF9800</color>
+    <color name="fab1colorPrimaryDark">#F57C00</color>
+    <color name="fab1colorAccent">#FFAB40</color>
+
+    <color name="fab2colorPrimary">#F44336</color>
+    <color name="fab2colorPrimaryDark">#D32F2F</color>
+    <color name="fab2colorAccent">#FF5252</color>
+
+    <color name="fab3colorPrimary">#3F51B5</color>
+    <color name="fab3colorPrimaryDark">#303F9F</color>
+    <color name="fab3colorAccent">#536DFE</color>
+    <color name="grey">#736F6E</color>
+</resources>

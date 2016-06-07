@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="Poster_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="bottom_margin">16dp</dimen>
+    <dimen name="top_margin">16dp</dimen>
+    <dimen name="text_view_padding">4dp</dimen>
+    <dimen name="small_size_text">12sp</dimen>
+    <dimen name="heading_size_text">16sp</dimen>
+    <dimen name="text_size_railer_title">16sp</dimen>
+    <dimen name="text_size_trailer_title">16sp</dimen>
+    <dimen name="textSizeTitle">12sp</dimen>
+    <item name="body_text_line_spacing" format="float" type="dimen">1.15</item>
+</resources>
