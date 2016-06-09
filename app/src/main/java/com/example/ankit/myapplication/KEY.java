@@ -5,7 +5,7 @@ package com.example.ankit.myapplication;
  */
 public class KEY {
 
-    public String Api_key = "b1f7052fe6bf3e4f821c395955d04504";
+    public String Api_key = "";// Enter Your API Key
 
     public String getkey() {
         return Api_key;
